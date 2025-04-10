@@ -7,4 +7,5 @@ nginx
 # chigusa/bililive-go:latest
 # ossrs/srs-stack:5
 # alfg/nginx-rtmp
-zx5253/webdav-teambition
+# zx5253/webdav-teambition
+linshen/prompt-optimizer:latest
