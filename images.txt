@@ -9,3 +9,4 @@ nginx
 # alfg/nginx-rtmp
 # zx5253/webdav-teambition
 linshen/prompt-optimizer:latest
+renmu1234/bililive-tools-frontend
