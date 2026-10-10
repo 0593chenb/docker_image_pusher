@@ -11,4 +11,5 @@ nginx
 # linshen/prompt-optimizer:latest
 renmu1234/bililive-tools-frontend:latest
 renmu1234/bililive-tools-backend:latest
+tickstep/aliyunpan-sync:v0.4.0 
 
